@@ -2,6 +2,7 @@
 This repository includes the working solution of the SDE position at Onymos Inc.:
 Implement a real-time Stock trading engine for matching Stock Buys with Stock Sells.
 1. Write an ‘addOrder’ function that will have the following parameters:
+   
    ‘Order Type’ (Buy or Sell), ‘Ticker Symbol’, ‘Quantity’, ‘Price’
    Support 1,024 tickers (stocks) being traded.
    Write a wrapper to have this ‘addOrder’ function randomly execute with different parameter values to simulate active stock transactions.
