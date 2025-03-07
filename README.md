@@ -1,5 +1,5 @@
 # Onymos
-This repository includes the working solution of the SDE position at Onymos Inc.:
+This repository includes the working solution of the SDE position at Onymos Inc., in Python using Jupyter Notebook:
 
 Implement a real-time Stock trading engine for matching Stock Buys with Stock Sells.
 1. Write an ‘addOrder’ function that will have the following parameters:
